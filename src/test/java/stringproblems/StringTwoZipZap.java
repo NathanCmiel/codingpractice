@@ -12,7 +12,7 @@ public class StringTwoZipZap {
      * zipZap("zopzop") → "zpzp"
      * zipZap("zzzopzop") → "zzzpzp"
      ************************************************************************/
-    public String zipZap(String str) {
+    public static String zipZap(String str) {
 
         String result = "";
 
